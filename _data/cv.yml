@@ -13,6 +13,9 @@ cv:
       username: jiyuanzhang
     - network: Google Scholar
       username: mpE3Y4EAAAAJ
+    - network: LinkedIn
+      username: zhangjiyuan-ai
+      url: https://www.linkedin.com/in/zhangjiyuan-ai/
 
   address:
     city: Sydney

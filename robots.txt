@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://surfzjy.github.io/sitemap.xml
+Sitemap: https://jiyuanzhang.github.io/sitemap.xml

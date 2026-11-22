@@ -6,7 +6,7 @@
 
 ## 新建文件
 
-1. 打开仓库 [SURFZJY/SURFZJY.github.io](https://github.com/SURFZJY/SURFZJY.github.io)。
+1. 打开仓库 [jiyuanzhang/jiyuanzhang.github.io](https://github.com/jiyuanzhang/jiyuanzhang.github.io)。
 2. 确认左上角分支是 `main`。
 3. 进入 `_posts` 目录，点 **Add file** → **Create new file**。
 4. 文件名必须是：
@@ -19,7 +19,7 @@ YYYY-MM-DD-短标题.md
 
 - `YYYY-MM-DD` 是日期，要和正文 front matter 里的 `date` 一致。
 - 短标题只用小写英文字母、数字和连字符。
-- 发布后的地址是 `https://surfzjy.github.io/blog/年/短标题/`。上面这个例子是 [https://surfzjy.github.io/blog/2026/hello-world/](https://surfzjy.github.io/blog/2026/hello-world/)。
+- 发布后的地址是 `https://jiyuanzhang.github.io/blog/年/短标题/`。上面这个例子是 [https://jiyuanzhang.github.io/blog/2026/hello-world/](https://jiyuanzhang.github.io/blog/2026/hello-world/)。
 
 ## Front matter
 
